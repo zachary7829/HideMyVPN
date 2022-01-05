@@ -1,0 +1,9 @@
+Package: com.zachary7829.hidemyvpn
+Name: HideMyVPN
+Author: zachary7829
+Description: Don't show VPN in Status Bar
+Depends: mobilesubstrate
+Maintainer: zachary7829
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
